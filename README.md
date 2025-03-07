@@ -8,13 +8,13 @@
 </p>
 
 <BR>
-- 👨‍💻 Gosto de computação
+- 👨‍💻 Gosto de reza
 <br>
 <BR>
-- 😉Formatação
+- 😉catolica
 <br>
 <BR>
-- 💞️ CMD
+- 💞️ phn
 <br>
 <BR>
 - 💻 Modificar bios de notebook
@@ -35,9 +35,9 @@
 - 🕸️ index.html
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"&gt;
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"&gt;
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"&gt;
+<img align="center" alt="Rafaela-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"&gt;
+<img align="center" alt="Rafaela-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"&gt;
+<img align="center" alt="Rafaela" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"&gt;
 </div>
 <br>
 Contatos
@@ -55,6 +55,6 @@ Contatos
 </h1>
 
 ###
-<img src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg&quot; alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rafaela-alves/rafaela-alves/output/snake.svg&quot; alt="Snake animation" />
 
 ###
