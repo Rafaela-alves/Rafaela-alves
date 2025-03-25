@@ -3,8 +3,8 @@
 </h1>
 
 <p float="left">
-  <img src="unamed.jpg" width="400px" />
-  <img src="unamed.jpg" height="300px" width="400px" />
+  <img src="rafa1.jpg" width="400px" />
+  <img src="rafa2.jpg" height="300px" width="400px" />
 </p>
 
 <BR>
