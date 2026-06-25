@@ -4,7 +4,7 @@
 
 <p float="left">
   <img src="rafa1.jpg" width="400px" />
-  <img src="rafa2.jpg" height="300px" width="400px" />
+  <img src="rafa.jpg" height="300px" width="400px" />
 </p>
 
 <BR>
