@@ -4,7 +4,7 @@
 
 <p float="left">
   <img src="rafa1.jpg" width="400px" />
-  <img src="rafa.jpg" height="300px" width="400px" />
+   width="400px" />
 </p>
 
 <BR>
@@ -20,19 +20,19 @@
 - 🎧 Musicas da Ana castela 
 <br>
 <BR>
-- 🤔 Front-end
+- 📚 Sou apaixonada por história
 <br>
 <BR>
-- 🤯 Back-end
+- 👩‍🏫 sonho em ser professora de história e historiadora
 <br>
 <BR>
-- 💞 Javascript
+- 💞 gosto de animais
 <br>
 <BR>
-- 💰 style.css
+- 💰 gosto bastante do diário de Anne Frank
 <br>
 <BR>
-- 🕸️ index.html
+- 🕸️ atualmente estou estudando sobre zumbi dos Palmares
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafaela-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"&gt;
